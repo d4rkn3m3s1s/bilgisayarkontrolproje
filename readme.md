@@ -6,5 +6,6 @@ Arduino Uno geliştirme kartı kullanılarak
 
 Buzzer eklenerek yağmur algılandığında uyarı verecektir.
 
-Ekip üyeleri
+Ekip üyeleri:
+
 Furkan Ulutaş
